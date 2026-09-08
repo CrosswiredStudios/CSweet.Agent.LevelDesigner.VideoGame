@@ -8,7 +8,7 @@
     "specializationKeys": ["video-game-development", "level-design", "game-content"]
   },
   "id": "com.csweet.video-game-level-designer",
-  "name": "Video Game Level Designer",
+  "name": "Owen Reed",
   "version": "2.1.1",
   "publisher": { "id": "com.csweet", "name": "C-Sweet" },
   "runtime": {
@@ -83,6 +83,9 @@
   "webAccess": { "mode": "None", "rules": [] },
   "ui": [],
   "catalog": {
+    "imageUrl": "https://raw.githubusercontent.com/CrosswiredStudios/CSweet.Agent.LevelDesigner.VideoGame/main/assets/branding/portrait-v1.jpg",
+    "companyLogoUrl": "https://raw.githubusercontent.com/CrosswiredStudios/CSweet.Agent.LevelDesigner.VideoGame/main/assets/branding/csweet-icon.svg",
+    "accentColor": "#50764C",
     "summary": "Owns level flows, encounters, pacing, content assembly, metrics, and playable level evidence.",
     "category": "Design",
     "role": { "key": "level-designer", "name": "Video Game Level Designer" },
